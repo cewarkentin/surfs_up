@@ -2,7 +2,7 @@
 
 We are providing potential Surf n' Shake business investor W. Avy with weather analysis from the islands of Hawai'i to identify an ideal shop location.
 
-## Analysis
+## Analysis & Results
 
 Below are side-by-side summary statistics for the temperature data collected in June versus the temperature data collected in December. Temperature data is collected in Fahrenheit. It is additionally important to note that Hawai'i is located in the Northern Hemisphere and follows the seasonal patterns associated with the Northern Hemisphere. However, because of its island location, Hawai'i's weather is much more strongly influenced by oceanic trade winds and can be better described as having a summertime "dry season" and a wintertime "rainy season".
 
@@ -11,15 +11,11 @@ Below are side-by-side summary statistics for the temperature data collected in 
 
 The average temperature across all weather stations in June is 74.9F +-3.3F. The average temperature across all weather stations in December is 71.0F +-3.7F. The average temperatures are both within 1.1 standard deviations of each other, meaning with the data spread we have, they are very similar.
 
-The minimum temperature in June was 64F, and the minimum temperature in December was 56F.
+- The minimum temperature in June was 64F, and the minimum temperature in December was 56F.
 
-The maximum temperature in June was 85F, and the maximum temperature in December was 83F.
+- The maximum temperature in June was 85F, and the maximum temperature in December was 83F.
 
-The month of December has a wider range of lower temperatures, and reaches colder temperatures overall, which follows expectations for wintertime weather.
-
-## Results
-
-There is a bulleted list that addresses the three key differences in weather between June and December.
+- The month of December has a wider range of lower temperatures, and reaches colder temperatures overall, which follows expectations for wintertime weather.
 
 ## Summary
 
